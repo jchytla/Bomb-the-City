@@ -1,5 +1,5 @@
 # Game Title
-## Author:
+## Author: Jakub 
 
 ### Short description
 
